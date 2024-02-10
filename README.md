@@ -1,0 +1,19 @@
+## TA-1021_00WW-user 9 PKQ1.181105.001 00WW_6_19F release-keys
+- Manufacturer: nokia
+- Platform: msm8937
+- Codename: PLE
+- Brand: nokia
+- Flavor: lineage_PLE-eng
+- Release Version: 11
+- Kernel Version: 3.18.120
+- Id: RQ3A.211001.001
+- Incremental: eng.atharv.20240210.082044
+- Tags: test-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Nokia/TA-1021_00WW/PLE:9/PKQ1.181105.001/00WW_6_19F:user/release-keys
+- OTA version: 
+- Branch: TA-1021_00WW-user-9-PKQ1.181105.001-00WW_6_19F-release-keys
+- Repo: nokia_ple_dump
