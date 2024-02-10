@@ -1,0 +1,8 @@
+# Aliases extracted from modules themselves.
+alias pci:v00001AE9d00000302sv*sd*bc*sc*i* wil6210
+alias pci:v00001AE9d00000310sv*sd*bc*sc*i* wil6210
+alias input:b*v*p*e*-e*k*r*a*m*l*s*f*w* evbug
+alias crypto-ansi_cprng ansi_cprng
+alias ansi_cprng ansi_cprng
+alias crypto-stdrng ansi_cprng
+alias stdrng ansi_cprng
